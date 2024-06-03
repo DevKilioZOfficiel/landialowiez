@@ -4,6 +4,7 @@
   "version": {
     "currentVersion": "0.0.1",
     "versionName": "Launch App",
-    "versionDescription": ""
+    "versionDescription": "",
+    "versionDownloadUrl": ""
   }
 }
