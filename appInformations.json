@@ -1,10 +1,14 @@
 {
-  "appName": "OGBridge",
+  "appName": "Landialowiez",
   "appDescription": "Official ETS/ATS Tracker by OGHub",
   "version": {
     "currentVersion": "0.0.1",
     "versionName": "Launch App",
     "versionDescription": "",
     "versionDownloadUrl": ""
+  },
+  "plugin": {
+    "url": "https://github.com/DevKilioZOfficiel/landialowiez/",
+    "currentVersion": "1.12.1"
   }
 }
