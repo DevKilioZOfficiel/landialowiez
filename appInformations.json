@@ -5,10 +5,10 @@
     "currentVersion": "0.0.1",
     "versionName": "Launch App",
     "versionDescription": "",
-    "versionDownloadUrl": ""
+    "versionDownloadUrl": "https://api.oghub.fr/ogbridge/landialowiez.exe"
   },
   "plugin": {
-    "url": "https://github.com/DevKilioZOfficiel/landialowiez/",
+    "url": "https://raw.githubusercontent.com/DevKilioZOfficiel/landialowiez/main/scs-telemetry.dll",
     "currentVersion": "1.12.1"
   }
 }
