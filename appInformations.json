@@ -2,10 +2,10 @@
   "appName": "Landialowiez",
   "appDescription": "Official ETS/ATS Tracker by OGHub",
   "version": {
-    "currentVersion": "0.0.1",
-    "versionName": "Launch App",
-    "versionDescription": "",
-    "versionDownloadUrl": "https://api.oghub.fr/ogbridge/landialowiez.exe"
+    "currentVersion": "0.0.2",
+    "versionName": "0.0.2 Update",
+    "versionDescription": "Add real/race mission",
+    "versionDownloadUrl": "https://discord.gg/R9Fs29V9a2"
   },
   "plugin": {
     "url": "https://raw.githubusercontent.com/DevKilioZOfficiel/landialowiez/main/scs-telemetry.dll",
